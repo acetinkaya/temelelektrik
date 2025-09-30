@@ -53,5 +53,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 ## Dersin Verildiği Dönem ve Bilgiler       
 
-2025-2026 Güz Dönemi - İGÜ Uygulamalı Bilimler Fakültesi, Uçak Bakım Onarım Bölümü - (N.Ö. 96 Öğrenci), Dersin internet sitesi: 
+2025-2026 Güz Dönemi - İGÜ Uygulamalı Bilimler Fakültesi, Uçak Bakım Onarım Bölümü - (N.Ö. 96 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-genel-bilgiler-18-358-15576-1   
 
