@@ -1,2 +1,2 @@
-# temelelektrik
-TEMEL ELEKTRİK I
+# TEMEL ELEKTRİK I DERSİ
+
