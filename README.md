@@ -45,5 +45,7 @@ Amaç: Bu ders,
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
 
+M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
+
 
 
