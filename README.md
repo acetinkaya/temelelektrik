@@ -7,3 +7,6 @@ Amaç: Bu ders,
 İçerik:  Bu dersin içeriği, 
 
 ## DERSİN ÖĞRENME ÇIKTILARI
+
+
+## HAFTALIK DERS KONULARI
