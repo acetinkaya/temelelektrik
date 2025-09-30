@@ -43,5 +43,7 @@ Amaç: Bu ders,
 
 ## KAYNAKLAR
 
+Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
+
 
 
