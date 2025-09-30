@@ -22,3 +22,7 @@ Amaç: Bu ders,
 5. Hafta - 
 
 6. Hafta - 
+
+7. Hafta -
+
+8. Hafta - 
