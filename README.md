@@ -53,4 +53,5 @@ M. Sait TÜRKÖZ, "Temel Elektronik", Birsen Yayınevi, 2009.
 
 ## Dersin Verildiği Dönem ve Bilgiler       
 
+2025-2026 Güz Dönemi 
 
