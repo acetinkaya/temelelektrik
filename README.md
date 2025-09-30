@@ -10,3 +10,7 @@ Amaç: Bu ders,
 
 
 ## HAFTALIK DERS KONULARI
+
+1. Hafta - 
+
+2. Hafta - 
