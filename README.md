@@ -35,4 +35,8 @@ Amaç: Bu ders,
 
 12. Hafta -
 
-13. Hafta - 
+13. Hafta -
+
+14. Hafta -
+
+
