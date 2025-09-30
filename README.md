@@ -33,4 +33,6 @@ Amaç: Bu ders,
 
 11. Hafta - 
 
-12. Hafta - 
+12. Hafta -
+
+13. Hafta - 
