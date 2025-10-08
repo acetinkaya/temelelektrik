@@ -33,7 +33,9 @@ Amaç: Bu ders,
 
 4. Hafta - 
 
-7. Hafta - 
+
+
+5. Hafta - 
 
 8. Hafta - 
 
