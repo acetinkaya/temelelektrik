@@ -71,7 +71,7 @@ Amaç: Bu ders,
         * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
         * Akım besleyicisinin iç direncinin önemi,
 
-12. Hafta -
+12. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
 13. Hafta - 
 
