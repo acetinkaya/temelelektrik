@@ -63,7 +63,7 @@ Amaç: Bu ders,
         * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
         * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-10. Hafta - Vize Sınavı Haftası
+8. Hafta - Vize Sınavı Haftası
 
 11. Hafta -
 
