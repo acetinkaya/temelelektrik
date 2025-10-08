@@ -82,13 +82,7 @@ Amaç: Bu ders,
         * Süperpozisyon Teoremi
         * Thevenin ve Norton Teoremleri
     
-13. Hafta -
-
-14. Hafta -
-
-15. Hafta -  ve 
-
-17. Hafta - AC Elektrik Kaynakları & Sistemleri
+13. Hafta - AC Elektrik Kaynakları & Sistemleri
 
         * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
         * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
@@ -96,7 +90,11 @@ Amaç: Bu ders,
         * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
         * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-18. Hafta - Final Sınavı Haftası
+14. Hafta -
+
+
+
+15. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
