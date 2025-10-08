@@ -24,7 +24,7 @@ Amaç: Bu ders,
         * Elektriksel Terminoloji terimleri ve kavramları.
         * Elektrik Alanı, Potansiyel fark, Elektromotor kuvvet, Voltaj, Akım,
         * Rezistans, Kondüktans / İletkenlik, Yük, Konvansiyonel akım yönü,
-
+        * Elektron akışı.
 
 3. Hafta -
 
