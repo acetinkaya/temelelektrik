@@ -14,6 +14,7 @@ Amaç: Bu ders,
 1. Hafta -
 
          * Elektron Teorisi Elektriksel yüklerin, atomlar, moleküller, iyonlar, bileşikler içerisindeki dağıtımı ve yapısı,
+         * İletkenlerin, yarı iletkenlerin ve yalıtkanların moleküler yapısı,
 
 
 3. Hafta -
