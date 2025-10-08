@@ -34,6 +34,7 @@ Amaç: Bu ders,
 4. Hafta - DC Elektrik Kaynakları & Sistemleri
 
         * Birincil piller, ikincil piller, kurşun asit piller, nikel kadmiyum piller, diğer alkalin piller; 
+        * Seri ve paralel bağlanan piller,
 
 
 5. Hafta - 
