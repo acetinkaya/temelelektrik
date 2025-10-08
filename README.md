@@ -28,6 +28,9 @@ Amaç: Bu ders,
 
 3. Hafta -
 
+        * Elektrik Üretiminin Terminolojisi;
+
+
 4. Hafta - 
 
 7. Hafta - 
