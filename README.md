@@ -39,42 +39,53 @@ Amaç: Bu ders,
         * Isıl çiftlerin yapısı, materyalleri ve çalışması,
         * Fotosellerin çalışması.
 
-5. Hafta - Sayı Sistemleri ve Lojik Kapılar
-
-        * Sayı Sistemlerine Giriş
-        * Sayı sistemleri ve dijital elektroniğin temeli
-        * Sayı Sistemleri Arası Dönüşümler
-
-7. Hafta - Sayı Sistemleri ve Lojik Kapılar
-
-        
-   
-8. Hafta - AC Elektrik Kaynakları & Sistemleri
-
-        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
-        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
-        * AC Gerilim Üretimi, AC Gerilim ve Akım İlişkileri, Efektif (RMS), Ortalama & Tepe değer, Faz farkı, Fazör gösterimi, Frekans (Hz) ve periyot ilişkisi,
-        * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
-        * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
-
-9. Hafta - Vize Sınavı Haftası
-
-10. Hafta - DC Devreler & Sistemler
-
-        * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
-        * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
-        * Akım besleyicisinin iç direncinin önemi,
-
-12. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
+5. Hafta - Elektrik ve Elektronik Devre Elemanları
 
         * Yarı iletken tanımı, Silisyum (Si) ve Germanyum (Ge) özellikleri
         * N-tipi ve P-tipi yarı iletkenlerin oluşturulması
         * Katkı maddeleri: Fosfor, Arsenik (N tipi); Bor, Galyum (P tipi)
         * Diyotlar, Diyot Çeşitleri, Uygulamaları
-  
-13. Hafta - Transistörler ve 
 
-14. Hafta - AC Elektrik Kaynakları & Sistemleri
+6. Hafta - Elektrik ve Elektronik Devre Elemanları
+
+        * Direnç, Kondansatör, Bobin Çeşitleri ve Uygulamaları
+        * Dirençlerde Seri ve Paralel Bağlama
+        * Kondansatör Uygulamaları
+        * Bobin Uygulamaları - LC ve RL
+
+7. Hafta - Sayı Sistemleri ve Lojik Kapılar
+
+        * Sayı Sistemlerine Giriş
+        * Sayı sistemleri ve dijital elektroniğin temeli
+        * Sayı Sistemleri Arası Dönüşümler
+
+8. Hafta - Sayı Sistemleri ve Lojik Kapılar
+
+        * Binary Aritmetik İşlemler
+        * Lojik Kapıların Temelleri
+        * Tümleşik Devreler
+        * Boolean Cebiri 
+   
+9. Hafta -  DC Devreler & Sistemler
+
+        * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
+        * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
+        * Akım besleyicisinin iç direncinin önemi,
+
+10. Hafta - Vize Sınavı Haftası
+
+
+11. Hafta -
+
+
+12. Hafta -
+
+
+13. Hafta -
+
+14. Hafta - Transistörler ve 
+
+15. Hafta - AC Elektrik Kaynakları & Sistemleri
 
         * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
         * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
@@ -82,7 +93,7 @@ Amaç: Bu ders,
         * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
         * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-15. Hafta - Final Sınavı Haftası
+16. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
