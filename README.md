@@ -74,6 +74,7 @@ Amaç: Bu ders,
 12. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
         * Yarı iletken tanımı, Silisyum (Si) ve Germanyum (Ge) özellikleri
+        * N-tipi ve P-tipi yarı iletkenlerin oluşturulması
 
   
 13. Hafta - 
