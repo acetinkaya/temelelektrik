@@ -11,7 +11,7 @@ Amaç: Bu ders,
 
 ## HAFTALIK DERS KONULARI
 
-1. Hafta -
+1. Hafta - Temel Elektrik veya Elektron Teorisi
 
          * Elektron Teorisi Elektriksel yüklerin, atomlar, moleküller, iyonlar, bileşikler içerisindeki dağıtımı ve yapısı,
          * İletkenlerin, yarı iletkenlerin ve yalıtkanların moleküler yapısı,
