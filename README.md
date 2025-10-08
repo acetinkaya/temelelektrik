@@ -71,8 +71,8 @@ Amaç: Bu ders,
    
 10. Hafta -  Sinyal İşleme ve Analog–Dijital Dönüşüm Temelleri
 
-        * PWM (Pulse-Width Modulation), 
-        * Görev Döngüsü (Duty Cycle),
+        * PWM (Pulse-Width Modulation)
+        * Görev Döngüsü (Duty Cycle)
         * ADC (Analog-to-Digital Converter)
 
 11. Hafta - Vize Sınavı Haftası
