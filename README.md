@@ -42,6 +42,7 @@ Amaç: Bu ders,
 5. Hafta - AC Elektrik Kaynakları & Sistemleri
 
         * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
+        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
 
 
 8. Hafta - 
