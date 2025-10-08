@@ -16,7 +16,7 @@ Amaç: Bu ders,
          * Elektron Teorisi Elektriksel yüklerin, atomlar, moleküller, iyonlar, bileşikler içerisindeki dağıtımı ve yapısı,
          * İletkenlerin, yarı iletkenlerin ve yalıtkanların moleküler yapısı,
          * Statik Elektrik ve Kondüksiyon/İletim Statik elektrik ve elektrostatik yüklerin dağıtımı,
-
+         * Elektrostatik çekim ve itme yasaları,
 
 3. Hafta -
 
