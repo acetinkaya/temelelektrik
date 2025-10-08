@@ -26,7 +26,7 @@ Amaç: Bu ders,
         * Rezistans, Kondüktans / İletkenlik, Yük, Konvansiyonel akım yönü,
         * Elektron akışı.
 
-3. Hafta -
+3. Hafta - 
 
         * Elektrik Üretiminin Terminolojisi,
         * Işık, ısı, friksiyon/ sürtünme, basınç, kimyasal etki, manyetizma ve hareket/devinim,
@@ -39,23 +39,17 @@ Amaç: Bu ders,
         * Isıl çiftlerin yapısı, materyalleri ve çalışması,
         * Fotosellerin çalışması.
 
-5. Hafta - AC Elektrik Kaynakları & Sistemleri
+5. Hafta - Sayı Sistemleri ve Lojik Kapılar
 
-        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
-        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
-        * AC Gerilim Üretimi, AC Gerilim ve Akım İlişkileri, Efektif (RMS), Ortalama & Tepe değer, Faz farkı, Fazör gösterimi, Frekans (Hz) ve periyot ilişkisi,
-        * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
-        * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
+        * Sayı Sistemlerine Giriş
+        * Sayı sistemleri ve dijital elektroniğin temeli
+        * Sayı Sistemleri Arası Dönüşümler
 
-6. Hafta - AC Elektrik Kaynakları & Sistemleri
+7. Hafta - Sayı Sistemleri ve Lojik Kapılar
 
-        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
-        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
-        * AC Gerilim Üretimi, AC Gerilim ve Akım İlişkileri, Efektif (RMS), Ortalama & Tepe değer, Faz farkı, Fazör gösterimi, Frekans (Hz) ve periyot ilişkisi,
-        * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
-        * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
+        
    
-7. Hafta - AC Elektrik Kaynakları & Sistemleri
+8. Hafta - AC Elektrik Kaynakları & Sistemleri
 
         * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
         * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
@@ -63,9 +57,9 @@ Amaç: Bu ders,
         * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
         * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-8. Hafta - Vize Sınavı Haftası
+9. Hafta - Vize Sınavı Haftası
 
-9. Hafta - DC Devreler & Sistemler
+10. Hafta - DC Devreler & Sistemler
 
         * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
         * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
@@ -78,15 +72,17 @@ Amaç: Bu ders,
         * Katkı maddeleri: Fosfor, Arsenik (N tipi); Bor, Galyum (P tipi)
         * Diyotlar, Diyot Çeşitleri, Uygulamaları
   
-13. Hafta - 
+13. Hafta - Transistörler ve 
 
-14. Hafta -
+14. Hafta - AC Elektrik Kaynakları & Sistemleri
 
-15. Hafta -
+        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
+        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
+        * AC Gerilim Üretimi, AC Gerilim ve Akım İlişkileri, Efektif (RMS), Ortalama & Tepe değer, Faz farkı, Fazör gösterimi, Frekans (Hz) ve periyot ilişkisi,
+        * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
+        * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-16. Hafta -
-
-17. Hafta - Final Sınavı Haftası
+15. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
