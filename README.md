@@ -11,35 +11,38 @@ Amaç: Bu ders,
 
 ## HAFTALIK DERS KONULARI
 
-1. Hafta - 
+1. Hafta -
 
-2. Hafta -
+         * Elektron Teorisi Elektriksel yüklerin, atomlar, moleküller, iyonlar, bileşikler içerisindeki dağıtımı ve yapısı,
+
 
 3. Hafta -
 
-4. Hafta - 
+4. Hafta -
 
 5. Hafta - 
 
 6. Hafta - 
 
-7. Hafta -
+7. Hafta - 
 
-8. Hafta - Vize Sınavı Haftası
+8. Hafta -
 
-9. Hafta -
+9. Hafta - Vize Sınavı Haftası
 
 10. Hafta -
 
-11. Hafta - 
+11. Hafta -
 
-12. Hafta -
+12. Hafta - 
 
 13. Hafta -
 
 14. Hafta -
 
-15. Hafta - Final Sınavı Haftası
+15. Hafta -
+
+16. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
