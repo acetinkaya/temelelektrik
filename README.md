@@ -41,6 +41,9 @@ Amaç: Bu ders,
 
 5. Hafta - AC Elektrik Kaynakları & Sistemleri
 
+        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
+
+
 8. Hafta - 
 
 9. Hafta -
