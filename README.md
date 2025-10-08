@@ -19,7 +19,7 @@ Amaç: Bu ders,
          * Elektrostatik çekim ve itme yasaları,
          * Yük birimleri, Coulomb Yasası; Katı maddelerdeki, sıvılardaki, gazlardaki ve vakumdaki elektrik iletimi
 
-2. Hafta -
+2. Hafta - Elektriksel Terminoloji ve Temel Kavramlar
 
         * Elektriksel Terminoloji terimleri ve kavramları.
         * Elektrik Alanı, Potansiyel fark, Elektromotor kuvvet, Voltaj, Akım,
