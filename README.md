@@ -22,6 +22,7 @@ Amaç: Bu ders,
 2. Hafta -
 
         * Elektriksel Terminoloji terimleri ve kavramları.
+        * Elektrik Alanı, Potansiyel fark, Elektromotor kuvvet, Voltaj, Akım,
 
 
 3. Hafta -
