@@ -1,6 +1,6 @@
 # TEMEL ELEKTRİK I DERSİ
 
-UBF / MYO ELP111 TEMEL ELEKTRİK I DERSİ İÇERİĞİ
+UBF / MYO - TEMEL ELEKTRİK & ELEKTRONİK DERSİ İÇERİĞİ
 
 Amaç: Bu ders, öğrencilerin elektriğin temel prensiplerini, elektriksel büyüklükleri, devre elemanlarının davranışlarını ve enerji dönüşüm sistemlerinin çalışma mantığını kavramalarını sağlamaktır. Öğrenciler, atom düzeyinde elektriksel yüklerin davranışından başlayarak, elektrik enerjisinin üretimi, iletimi ve dönüşümünü teorik ve uygulamalı olarak inceleyecek; DC ve AC devreleri, yarı iletken elemanları ve ölçüm tekniklerini anlayarak temel elektronik sistemlerin tasarımına giriş yapacaklardır.
 
