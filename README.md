@@ -67,12 +67,15 @@ Amaç: Bu ders,
 
 9. Hafta - DC Devreler & Sistemler
 
-        * Ohms Yasası, Kirchoff Voltajı ve Akım Yasaları,
+        * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
         * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
         * Akım besleyicisinin iç direncinin önemi,
 
 12. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
+        * Yarı iletken tanımı, Silisyum (Si) ve Germanyum (Ge) özellikleri
+
+  
 13. Hafta - 
 
 14. Hafta -
