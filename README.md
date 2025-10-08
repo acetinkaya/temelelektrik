@@ -90,9 +90,13 @@ Amaç: Bu ders,
         * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
         * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
-14. Hafta -
+14. Hafta - AC Elektrik Kaynakları & Sistemleri
 
-
+        * Alternatif Akım (AC) Tanımı, Frekans (f), periyot (T) ve genlik (Vm) kavramları,
+        * Faraday’ın elektromanyetik indüksiyon yasası, Dalga formu (sinüs dalgası), Tek fazlı ve üç fazlı AC üretim sistemleri,
+        * AC Gerilim Üretimi, AC Gerilim ve Akım İlişkileri, Efektif (RMS), Ortalama & Tepe değer, Faz farkı, Fazör gösterimi, Frekans (Hz) ve periyot ilişkisi,
+        * AC Devre Elemanları, Direnç (R), endüktans (L) ve kapasitans (C) etkileri, Empedans (Z) kavramı,
+        * AC Güç Hesaplamaları, Gerçek güç (P), reaktif güç (Q) ve görünür güç (S) ilişkisi, Güç faktörü (cosφ)
 
 15. Hafta - Final Sınavı Haftası
 
