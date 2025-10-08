@@ -75,6 +75,7 @@ Amaç: Bu ders,
 
         * Yarı iletken tanımı, Silisyum (Si) ve Germanyum (Ge) özellikleri
         * N-tipi ve P-tipi yarı iletkenlerin oluşturulması
+        * Katkı maddeleri: Fosfor, Arsenik (N tipi); Bor, Galyum (P tipi)
 
   
 13. Hafta - 
