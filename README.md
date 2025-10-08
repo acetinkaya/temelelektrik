@@ -21,6 +21,7 @@ Amaç: Bu ders,
 
 2. Hafta -
 
+        * Elektriksel Terminoloji terimleri ve kavramları.
 
 
 3. Hafta -
