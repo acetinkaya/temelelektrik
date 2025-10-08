@@ -35,6 +35,7 @@ Amaç: Bu ders,
 
         * Birincil piller, ikincil piller, kurşun asit piller, nikel kadmiyum piller, diğer alkalin piller; 
         * Seri ve paralel bağlanan piller,
+        * İç direnç ve iç direncin batarya üzerindeki etkisi,
 
 
 5. Hafta - 
