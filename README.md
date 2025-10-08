@@ -26,12 +26,14 @@ Amaç: Bu ders,
         * Rezistans, Kondüktans / İletkenlik, Yük, Konvansiyonel akım yönü,
         * Elektron akışı.
 
-3. Hafta - 
+3. Hafta - Elektrik Enerjisinin Üretimi ve Kaynakları
 
         * Elektrik Üretiminin Terminolojisi,
-        * Işık, ısı, friksiyon/ sürtünme, basınç, kimyasal etki, manyetizma ve hareket/devinim,
+        * Elektrik Üretiminde Kullanılan Temel Bileşenler; Işık, ısı, friksiyon/ sürtünme, basınç, kimyasal etki, manyetizma ve hareket/devinim,
+        * AC ve DC Enerji kavramı ve Uygulamaları
+        * Efektif (RMS – Root Mean Square) Gerilim
 
-4. Hafta - DC Elektrik Kaynakları & Sistemleri
+5. Hafta - DC Elektrik Kaynakları & Sistemleri
 
         * Birincil piller, ikincil piller, kurşun asit piller, nikel kadmiyum piller, diğer alkalin piller; 
         * Seri ve paralel bağlanan piller,
@@ -39,7 +41,7 @@ Amaç: Bu ders,
         * Isıl çiftlerin yapısı, materyalleri ve çalışması,
         * Fotosellerin çalışması.
 
-5. Hafta - Elektrik ve Elektronik Devre Elemanları
+6. Hafta - Elektrik ve Elektronik Devre Elemanları
 
         * Yarı iletken tanımı, Silisyum (Si) ve Germanyum (Ge) özellikleri
         * N-tipi ve P-tipi yarı iletkenlerin oluşturulması
@@ -47,35 +49,35 @@ Amaç: Bu ders,
         * Diyotlar, Diyot Çeşitleri, Uygulamaları
         * Transistörler, Transistör Çeşitleri, Uygulamaları
 
-6. Hafta - Elektrik ve Elektronik Devre Elemanları
+7. Hafta - Elektrik ve Elektronik Devre Elemanları
 
         * Direnç, Kondansatör, Bobin Çeşitleri ve Uygulamaları
         * Dirençlerde Seri ve Paralel Bağlama
         * Kondansatör Uygulamaları
         * Bobin Uygulamaları - LC ve RL
 
-7. Hafta - Sayı Sistemleri ve Lojik Kapılar
+8. Hafta - Sayı Sistemleri ve Lojik Kapılar
 
         * Sayı Sistemlerine Giriş
         * Sayı sistemleri ve dijital elektroniğin temeli
         * Sayı Sistemleri Arası Dönüşümler
 
-8. Hafta - Sayı Sistemleri ve Lojik Kapılar
+9. Hafta - Sayı Sistemleri ve Lojik Kapılar
 
         * Binary Aritmetik İşlemler
         * Lojik Kapıların Temelleri
         * Tümleşik Devreler
         * Boolean Cebiri 
    
-9. Hafta -  DC Devreler & Sistemler
+10. Hafta -  DC Devreler & Sistemler
 
         * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
         * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
         * Akım besleyicisinin iç direncinin önemi,
 
-10. Hafta - Vize Sınavı Haftası
+11. Hafta - Vize Sınavı Haftası
     
-11. Hafta - Devre Analizi ve Devre Teoremleri
+12. Hafta - Devre Analizi ve Devre Teoremleri
 
         * Temel Devre Çözüm Yöntemleri
         * Ohm Kanunu ve Kirchhoff Yasaları
