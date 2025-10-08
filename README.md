@@ -28,8 +28,8 @@ Amaç: Bu ders,
 
 3. Hafta -
 
-        * Elektrik Üretiminin Terminolojisi;
-
+        * Elektrik Üretiminin Terminolojisi,
+        * Işık, ısı, friksiyon/ sürtünme, basınç, kimyasal etki, manyetizma ve hareket/devinim,
 
 4. Hafta - 
 
