@@ -31,8 +31,9 @@ Amaç: Bu ders,
         * Elektrik Üretiminin Terminolojisi,
         * Işık, ısı, friksiyon/ sürtünme, basınç, kimyasal etki, manyetizma ve hareket/devinim,
 
-4. Hafta - DC Elektrik Kaynakları - Sistemleri
+4. Hafta - DC Elektrik Kaynakları & Sistemleri
 
+        * Birincil piller, ikincil piller, kurşun asit piller, nikel kadmiyum piller, diğer alkalin piller; 
 
 
 5. Hafta - 
