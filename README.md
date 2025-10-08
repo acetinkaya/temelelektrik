@@ -69,15 +69,15 @@ Amaç: Bu ders,
         * Tümleşik Devreler
         * Boolean Cebiri 
    
-10. Hafta -  DC Devreler & Sistemler
+10. Hafta -  Sinyal İşleme ve Analog–Dijital Dönüşüm Temelleri
 
-        * Ohm Yasası, Kirchoff Voltajı ve Akım Yasaları,
-        * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
-        * Akım besleyicisinin iç direncinin önemi,
+        * PWM (Pulse-Width Modulation), 
+        * Görev Döngüsü (Duty Cycle),
+        * ADC (Analog-to-Digital Converter)
 
 11. Hafta - Vize Sınavı Haftası
     
-12. Hafta - Devre Analizi ve Devre Teoremleri
+12. Hafta - Devre Analizi ve Devre Dönüşüm Teoremleri
 
         * Temel Devre Çözüm Yöntemleri
         * Ohm Kanunu ve Kirchhoff Yasaları
