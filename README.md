@@ -19,33 +19,35 @@ Amaç: Bu ders,
          * Elektrostatik çekim ve itme yasaları,
          * Yük birimleri, Coulomb Yasası; Katı maddelerdeki, sıvılardaki, gazlardaki ve vakumdaki elektrik iletimi
 
+2. Hafta -
+
+
+
 3. Hafta -
 
-4. Hafta -
-
-5. Hafta - 
-
-6. Hafta - 
+4. Hafta - 
 
 7. Hafta - 
 
-8. Hafta -
+8. Hafta - 
 
-9. Hafta - Vize Sınavı Haftası
+9. Hafta -
 
-10. Hafta -
+10. Hafta - Vize Sınavı Haftası
 
 11. Hafta -
 
-12. Hafta - 
+12. Hafta -
 
-13. Hafta -
+13. Hafta - 
 
 14. Hafta -
 
 15. Hafta -
 
-16. Hafta - Final Sınavı Haftası
+16. Hafta -
+
+17. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
