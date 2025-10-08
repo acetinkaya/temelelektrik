@@ -17,6 +17,7 @@ Amaç: Bu ders,
          * İletkenlerin, yarı iletkenlerin ve yalıtkanların moleküler yapısı,
          * Statik Elektrik ve Kondüksiyon/İletim Statik elektrik ve elektrostatik yüklerin dağıtımı,
          * Elektrostatik çekim ve itme yasaları,
+         * Yük birimleri, Coulomb Yasası; Katı maddelerdeki, sıvılardaki, gazlardaki ve vakumdaki elektrik iletimi
 
 3. Hafta -
 
