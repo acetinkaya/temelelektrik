@@ -65,7 +65,11 @@ Amaç: Bu ders,
 
 8. Hafta - Vize Sınavı Haftası
 
-11. Hafta -
+9. Hafta - DC Devreler & Sistemler
+
+        * Ohms Yasası, Kirchoff Voltajı ve Akım Yasaları,
+        * Direnci, voltajı ve akımı bulmak üzere yukarıdaki yasaları kullanarak yapılan hesaplamalar,
+        * Akım besleyicisinin iç direncinin önemi,
 
 12. Hafta -
 
