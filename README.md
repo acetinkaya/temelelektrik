@@ -39,7 +39,6 @@ Amaç: Bu ders,
         * Isıl çiftlerin yapısı, materyalleri ve çalışması,
         * Fotosellerin çalışması.
 
-
 6. Hafta - 
 
 8. Hafta - 
