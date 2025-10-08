@@ -39,7 +39,7 @@ Amaç: Bu ders,
         * Isıl çiftlerin yapısı, materyalleri ve çalışması,
         * Fotosellerin çalışması.
 
-6. Hafta - 
+5. Hafta - AC Elektrik Kaynakları & Sistemleri
 
 8. Hafta - 
 
