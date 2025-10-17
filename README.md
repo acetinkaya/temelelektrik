@@ -6,6 +6,8 @@ Amaç: Bu ders, öğrencilerin elektriğin temel prensiplerini, elektriksel büy
 
 ## DERSİN HAFTALIK DERS KONULARI ve ÇIKTILARI
 
+https://github.com/acetinkaya/temelelektrik/blob/main/dc-ac.png
+
 1. Hafta - Temel Elektrik veya Elektron Teorisi
 
          * Elektron Teorisi Elektriksel yüklerin, atomlar, moleküller, iyonlar, bileşikler içerisindeki dağıtımı ve yapısı,
